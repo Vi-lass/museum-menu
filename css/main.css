@@ -335,6 +335,8 @@ textarea {
 }
 
 .button:hover a {
+  color: #b7b7b7 !important;
+
 }
 
 .button:hover .mask {
@@ -352,6 +354,26 @@ textarea {
 
 .button:active a {
   color: #202020;
+}
+.back {
+  height: 55px;
+  width: 34px;
+  border: 2px solid #a9a9a9;
+  cursor: pointer;
+  letter-spacing: 0.2125rem;
+  line-height: 1;
+  overflow: hidden;
+  text-align: center;
+  text-transform: uppercase;
+  user-select: none;
+  color: #b7b7b7 !important;
+  text-decoration: none !important;
+  white-space: nowrap;
+  vertical-align: middle;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 7px;
 }
 
 .logo {
