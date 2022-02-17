@@ -284,6 +284,9 @@ textarea {
   letter-spacing: 4px;
   margin-bottom: 20px;
 }
+.subtitle{
+  font-size: 30px;
+}
 
 .button {
   width: 180px;
@@ -356,8 +359,8 @@ textarea {
   color: #202020;
 }
 .back {
-  height: 55px;
-  width: 34px;
+  height: 30px;
+  width: 38px;
   border: 2px solid #a9a9a9;
   cursor: pointer;
   letter-spacing: 0.2125rem;
